@@ -1,0 +1,204 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  justify-content: center;
+  text-align: center;
+}
+.physics {
+  width: 100%;
+  height: 110px;
+  position: fixed;
+  z-index: 12;
+}
+.physics .moon{
+  width: 100%;
+  height: 50px;
+  background-color: #0C0D29;
+ 
+}
+.physics .moon .rock{
+  color : white;
+  font-family: Times New Roman;
+  line-height: 50px;
+  float: right;
+  font-size: 12px;
+  padding: 0 10px;
+}
+
+.physics h1{
+
+  font-family: Times New Roman;
+  float: left;
+  padding: 16px 18px;
+  color:#2C2F73;
+  letter-spacing: 4px;
+  font-size: 28px;
+}
+.physics h1 p{
+  font-family: Times New Roman;
+  font-size: 10px;
+  letter-spacing: 0px;
+  color : #88CFDF;
+}
+.physics h1 p span{
+  font-family: Times New Roman;
+  font-size: 10px;
+  letter-spacing: 0px;
+  color : #2C2F73;
+}
+.physics .soon{
+  width: 100%;
+  height: 70px;
+  background-color: #ffffff ;
+}
+.biology {
+  width: 100%;
+  height: 165px;
+  background-color:#0C0D29;
+}
+.biology p{
+  font-family: Times New Roman;
+  color :white;
+  font-size: 25px;
+  line-height: 35px;
+}
+.bhoot{
+  width: 100%;
+  height: 1800px;
+  background-color:#ffffff;
+  padding : 60px 0px 0px;
+  
+}
+.bhoot .ram{
+  position: absolute;
+  left: 30px;
+  right: 30px;
+  text-align: left;
+}
+.bhoot .ram p{
+  line-height :30px;
+  text-decoration: none;
+  text-underline-position: none;
+}
+
+
+.bhoot .ram .bold a{
+  text-decoration: none;
+  text-underline-offset: none;
+  text-decoration-color: black;
+}
+
+
+.name {
+  width: 100%;
+  height : 100px ;
+  background-color:white ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+footer{
+  width: 100%;
+  height: 1350px;
+  background-color:#141534;
+}
+footer h1{
+  font-family: Times New Roman;
+  float: left;
+  padding: 16px 18px;
+  color:#ffffff;
+  letter-spacing: 4px;
+  font-size: 38px;
+}
+
+footer h1 p{
+  font-family: Times New Roman;
+  font-size: 13px;
+  letter-spacing: 0px;
+  color : #88CFDF;
+}
+footer h1 p span{
+  font-family: Times New Roman;
+  font-size: 13px;
+  letter-spacing: 0px;
+  color : #E9E9EC;
+}
+footer .man{
+  text-align: left;
+  color: white;
+  padding: 15px;
+  font-family: Times New Roman;
+  font-size: 15px;
+}
+footer h3{
+  font-family: Times New Roman;
+  color: white;
+  float: left;
+  font-size: 25px;
+  padding: 20px;
+  color:#00BBDD;
+  letter-spacing: 1px;
+}
+footer ul li{
+  text-decoration: none;
+  display: inline-block;
+  color: white;
+  float: left;
+  padding: 20px;
+  font-size: 40px;
+}
+footer .nan {
+  font-family: Times New Roman;
+  float: left;
+  padding : 20px ;
+  font-size: 18px;
+  color:#00BBDD;
+}
+footer .nan span {
+  float: left;
+  color: white;
+  font-size: 17px;
+}
+footer .nnn {
+  color: white ;
+  font-family: Times New Roman;
+  float: left;
+  padding : 20px;
+  font-size: 18px;
+ 
+ 
+}
+footer .nn{
+  text-align: center;
+  font-family: Times New Roman;
+  color: white;
+  font-size: 15px;
+ line-height: 20px;
+}
+footer .noob {
+  color: white;
+  font-family: Times New Roman;
+  font-size: 16px;
+}
+footer button {
+  width: 140px;
+  height: 45px;
+  background-color:#1D283E ;
+  border: 2px solid #102854;
+  color: #ffffff ;
+  border-radius: 5px;
+}
+footer .vi {
+  background-color: #1C1D3B;
+}
